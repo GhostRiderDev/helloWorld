@@ -13,6 +13,7 @@ async function bootstrap() {
       'https://pf-henry-front-rouge.vercel.app',
       /https:\/\/pf-henry-front-.*\.vercel\.app$/,
       'http://localhost:3000',
+      'https://hello-wor-i010-gaoe7f73q-cos4hs-projects.vercel.app',
     ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     credentials: true,
