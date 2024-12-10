@@ -99,7 +99,7 @@ export class ProfesorService {
       });
       // Wait for the promise to resolve and get the actual data
       const validaCupo = await validaCupoPromise;
-      results.push(horario, 4);
+      results.push(horario, 30);
     }
     return results;
   }
